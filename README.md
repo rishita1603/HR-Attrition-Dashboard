@@ -23,15 +23,23 @@ The dashboard provides HR metrics related to employee attrition segmented by gen
 - **Overtime Impact**: Majority of attrition cases are linked to overtime.
 - **Age Group Trend**: Employees aged 30–40 have the highest attrition rate.
 
-## 💼 Use Cases
+## Use Cases
 - HR team performance monitoring
 - Internal HR analytics for strategy development
 - Excel dashboarding and visualization demonstration
 
-## 🖼 Preview
+### Dashboard View 1
+![Dashboard View 1](Dashboard_View_1.png)
+
+### Dashboard View 2
+![Dashboard View 2](Dashboard_View_2.png)
+
+### Dashboard View 3
+![Dashboard View 3](Dashboard_View_3.png)
 
 
-## 🛠 Tools Used
+
+## Tools Used
 - Microsoft Excel (Pivot Tables, Slicers, Formulas)
 - Chart visualizations (donut, bar, column)
 
